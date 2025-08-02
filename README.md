@@ -68,7 +68,7 @@ To ensure experiments are meaningful:
 ## 📤 Submit Your Dataset Anonymously
 
 Use our privacy-safe Google Form:  
-👉 [Insert Google Form Link Here]
+👉 [https://forms.gle/TR2qGcbTg5UVUh9w6]
 
 You can optionally be credited via **pseudonym or GitHub handle**.  
 All datasets will be curated and published for educational benchmarking.
