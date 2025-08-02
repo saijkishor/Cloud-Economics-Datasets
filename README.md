@@ -76,7 +76,6 @@ Use our privacy-safe Google Form:
 You can optionally be credited via **pseudonym or GitHub handle**.  
 All datasets will be curated and published for educational benchmarking.
 
-
 ---
 
 _Thank you for helping build a transparent, reproducible, and community-powered cloud economics knowledge base._
