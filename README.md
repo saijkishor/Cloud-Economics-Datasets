@@ -67,11 +67,15 @@ To ensure experiments are meaningful:
 
 ## 📤 Submit Your Dataset Anonymously
 
+Privacy Note:
+When you upload a file via this form, Google will record your name, email address, and profile photo. This information is visible only to the form owner and will be used solely for attribution and compliance review. We do not share contributor identities publicly without consent.
+
 Use our privacy-safe Google Form:  
 👉 [https://forms.gle/TR2qGcbTg5UVUh9w6]
 
 You can optionally be credited via **pseudonym or GitHub handle**.  
 All datasets will be curated and published for educational benchmarking.
+
 
 ---
 
